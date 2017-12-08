@@ -1,3 +1,4 @@
 Gitの練習
 1.GitHubを使用
 2.push終了　修正を更新
+3.branch作成　alakaiというbranch
